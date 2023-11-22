@@ -1,9 +1,10 @@
 /*  your css code here. If applicable */
 .container{
+	margin:auto;
+	align-items:center;
+	padding:40px 35px 0px 35px;
 	width:400px;
 	height:540px;
-	border: 1px solid black;
-	backgroun-size:100;
 	background-color:whitesmoke;
 }
 image{
