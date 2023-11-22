@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.container{
+	width:400px;
+	height:540px;
+	border: 1px solid black;
+	backgroun-size:100;
+	background-color:whitesmoke;
+}
+image{
+	height:300px;
+	width:200px;
+}
